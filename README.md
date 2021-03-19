@@ -43,6 +43,15 @@ https://ctan.org/tex-archive/macros/latex/contrib/mnras
  Please refrain from using any self-made definitions since these will get lost during further conversion of your text. If you use typing abbreviations, "search and replace" them before submitting your article to the publisher.
 
  http://ftp.edpsciences.org/pub/aa/aa-package.zip
+ 
+ ## The Open Journal of Astrophysics
+
+*(copied from [this page](https://astro.theoj.org/for-authors))*
+
+To submit an article to the journal, you should first post it on the arXiv. When asked which licence you wish to use, you should select CC-BY. (If your article is already posted with a more restricted licence it is not a major problem, since you can give a different licence to the published version.
+
+We have a Latex style file which you can download [here] (http://www.thphys.nuim.ie/staff/pcoles/openjournal.cls)
+ 
 
 # Physics
 
